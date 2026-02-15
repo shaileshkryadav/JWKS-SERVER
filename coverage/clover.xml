@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1771176728336" clover="3.2.0">
-  <project timestamp="1771176728336" name="All files">
+<coverage generated="1771177022434" clover="3.2.0">
+  <project timestamp="1771177022434" name="All files">
     <metrics statements="51" coveredstatements="48" conditionals="7" coveredconditionals="4" methods="12" coveredmethods="11" elements="70" coveredelements="63" complexity="0" loc="51" ncloc="51" packages="2" files="4" classes="4"/>
     <package name="jwks-server">
       <metrics statements="32" coveredstatements="30" conditionals="5" coveredconditionals="3" methods="10" coveredmethods="9"/>
