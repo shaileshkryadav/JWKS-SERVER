@@ -145,6 +145,28 @@ The test suite includes:
 - Error handling testing
 - Coverage above 80% (currently >90%)
 
+Coverage screenshot is included in:
+
+```
+/screenshots/test-coverage.png
+```
+
+---
+
+## 📸 Screenshots Included
+
+The repository includes:
+
+- `/screenshots/test-client-running.png`  
+  Demonstrates the test client successfully calling `/auth`.
+
+- `/screenshots/test-coverage.png`  
+  Shows Jest test coverage exceeding 80%.
+
+Each screenshot includes identifying information as required.
+
+---
+
 ## 🔐 JWT Details
 
 - Algorithm: RS256
